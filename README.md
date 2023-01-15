@@ -6,8 +6,8 @@ This repository is divided in different notebooks that:
   - 0-Download the ERA5 datasets used in this research
   - 1-Compute PCP accumulations for each gridpoint
   - 2-Compute the extreme values for each time interval
-  - 3,4,5-Analize the dataset and generate plots
-  - Plots for each case study
+  - 3-Compute and plot the scaling law and maps
+  - PCPscaling_CaseStudy-Plots for each case study
 
 <!-- More information at: González-Herrero et. al. (2023)
 DOI: https://doi.org/10.1038/s43247-022-00450-5 -->
