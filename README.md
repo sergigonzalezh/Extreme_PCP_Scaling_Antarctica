@@ -9,8 +9,8 @@ This repository is divided in different notebooks that:
   - 3,4,5-Analize the dataset and generate plots
   - Plots for each case study
 
-<!-- More information at: González-Herrero et. al. (2022)
-DOI: https://doi.org/10.1038/s43247-022-00450-5 --!>
+<!-- More information at: González-Herrero et. al. (2023)
+DOI: https://doi.org/10.1038/s43247-022-00450-5 -->
 
 ## Versions and dependences
 
@@ -31,12 +31,15 @@ The script consists in a group of Jupyter notebooks programed in python 3.8. The
   matplotlib  
   cartopy
 ```
+## Complementary dataset
+
+The dataset associated to this research can be found at:
 
 ## How to cite
 
 If you use or modify this script for your research, please cite as:
 
-<!-- Citation --!>
+<!-- Citation -->
 
 ## Contact
 If you have any question, please contact with Sergi at sergi.gonzalez@slf.ch
