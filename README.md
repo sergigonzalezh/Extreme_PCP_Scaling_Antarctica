@@ -3,10 +3,10 @@
 This is the Jupyter notebooks required to reproduce the research published in *International Journal of Climatology*.
 
 This repository is divided in different notebooks that:
-  - 0. Download the ERA5 datasets used in this research
-  - 1. Compute PCP accumulations for each gridpoint
-  - 2. Compute the extreme values for each time interval
-  - 3. Analize the dataset and generate plots
+  - 0-Download the ERA5 datasets used in this research
+  - 1-Compute PCP accumulations for each gridpoint
+  - 2-Compute the extreme values for each time interval
+  - 3,4,5-Analize the dataset and generate plots
   - Plots for each case study
 
 <!-- More information at: González-Herrero et. al. (2022)
