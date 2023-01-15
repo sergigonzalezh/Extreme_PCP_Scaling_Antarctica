@@ -33,7 +33,7 @@ The script consists in a group of Jupyter notebooks programed in python 3.8. The
 ```
 ## Complementary dataset
 
-The dataset associated to this research can be found at:
+The dataset associated to this research can be found at: http://10.5281/zenodo.7538266
 
 ## How to cite
 
