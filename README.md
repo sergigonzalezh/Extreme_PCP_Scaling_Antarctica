@@ -38,8 +38,8 @@ The dataset associated to this research can be found at: http://10.5281/zenodo.7
 ## How to cite
 
 If you use or modify this script for your research, please cite as:
-
-<!-- Citation -->
+González-Herrero, S., Vassalo, F., Bech, J., Gorodetskaya, I. V., Elvira, B., and Justel, A. (2023): Extreme precipitation records in Antarctica. Int. J. Climatol. doi: https://doi.org/10.1002/joc.8020
 
 ## Contact
+
 If you have any question, please contact with Sergi at sergi.gonzalez@slf.ch
